@@ -14,5 +14,7 @@
 
 ## Semilog plotted Graph
 
+![WhatsApp Image 2025-11-28 at 17 29 29_6d15a15d](https://github.com/user-attachments/assets/2dd3d8a6-031a-4330-ad2b-5697c3c1995d)
+
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
