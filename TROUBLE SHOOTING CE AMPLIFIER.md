@@ -13,6 +13,7 @@
 
 ## Semilog Graph
 
+![WhatsApp Image 2025-11-28 at 17 51 52_4f90e2ae](https://github.com/user-attachments/assets/697c20b4-c5cc-486e-9306-d7869cf4d55b)
 
 
 ![WhatsApp Image 2025-11-28 at 17 55 01_483597e6](https://github.com/user-attachments/assets/7d736b59-cbf7-4139-aae3-4d0dbc565878)
